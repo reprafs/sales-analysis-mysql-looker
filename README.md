@@ -194,21 +194,21 @@ Made with Looker Studio.
 
 ## Insights
 
-> Fill in with your numbers.
-
-1. **Monthly sales:** ...
-2. **Products:** ...
-3. **Customer spending:** ...
-4. **Region:** ...
-5. **Age group:** ...
-6. **Repeat customers:** ...
+1. Total revenue is $1.03M from 993 orders, with 9,962 items sold. The average order value (AOV) is $1,039.07.
+2. March has the highest revenue ($131,364). May has the lowest full month ($85,597). The gap is about 34.8%.
+3. October is not a full month (data stops on Oct 24), so its low revenue should not be compared directly with the other months.
+4. The three product types sell almost the same amount of units (about 3,300 each), so no product is really behind.
+5. Jacket has the highest revenue ($357,026), even though it is not the top in units sold. This is because the jacket price is higher.
+6. South Australia is the top state, both in revenue ($147,816) and in customers (90).
+7. Northern Territory has the lowest revenue ($111,854). Tasmania has the fewest customers (67).
+8. Only 616 out of 1,000 registered customers have ordered. That means about 38% of registered customers have never bought anything.
+9. Age 20-29 brings the highest revenue (about 182K), around 15% more than age 60-69 (about 159K). But the difference between age groups is not very big.
 
 ## Recommendations
 
-> Fill in with your numbers.
-
-1. ...
-2. ...
-3. ...
-4. ...
-5. ...
+1. Look into why May is low. Check if there is a holiday or no promotion that month, and try running a promo in slow months.
+2. Promote jackets more, because each sale gives more revenue. Trousers and shirts can be sold as bundles with jackets.
+3. Keep focusing on South Australia, and try to grow the weaker states like Northern Territory and Tasmania (for example with local ads or free shipping).
+4. Send emails or vouchers to the customers who registered but never ordered, to turn them into active customers.
+5. Use ages 20-29 as the main target for campaigns, but don't ignore other age groups because they are quite close.
+6. Get the full October data before making a final conclusion about the monthly trend.
