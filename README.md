@@ -156,31 +156,31 @@ This one may not be used in the final dashboard.
 
 Result:
 
-![Result](images/photo7.png)
+![Result](images/photo8.png)
 
 ### 5. Customers and revenue per state
 
-![Query](images/photo8.png)
+![Query](images/photo9.png)
 
 Result:
 
-![Result](images/photo9.png)
+![Result](images/photo10.png)
 
 ### 6. Active customers who order more than once, and their revenue contribution
 
-![Query](images/photo10.png)
+![Query](images/photo11.png)
 
 Result:
 
-![Result](images/photo11.png)
+![Result](images/photo12.png)
 
 ### 7. Revenue per age group (target market)
 
-![Query](images/photo12.png)
+![Query](images/photo13.png)
 
 Result:
 
-![Result](images/photo13.png)
+![Result](images/photo14.png)
 
 ---
 
@@ -188,7 +188,7 @@ Result:
 
 Made with Looker Studio.
 
-![Dashboard](images/photo14.png)
+![Dashboard](images/photo15.png)
 
 ---
 
