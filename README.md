@@ -5,6 +5,8 @@ This project analyzes sales data using **MySQL queries** and **Looker Studio** f
 
 The data has 4 tables: `customers`, `products`, `orders`, and `sales`.
 
+[View the live dashboard here](https://datastudio.google.com/reporting/5f8a0c74-0751-4743-aaf6-4cb9b17ccdf5)
+
 ---
 ![Dashboard](images/photo15.png)
 
