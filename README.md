@@ -10,6 +10,35 @@ The data has 4 tables: `customers`, `products`, `orders`, and `sales`.
 ---
 ![Dashboard](images/photo15.png)
 
+## Project Overview
+
+This project analyzes sales performance using **MySQL** for data exploration and analysis, and **Looker Studio** for interactive dashboard visualization.
+
+The dataset consists of four relational tables: `customers`, `products`, `orders`, and `sales`. The analysis covers sales performance, product performance, customer purchasing behavior, regional distribution, and customer engagement.
+
+The objective is to turn raw sales data into actionable insights by identifying sales trends, top-performing products, customer spending patterns, and opportunities for business growth.
+
+## Business Problem
+
+Understanding sales performance requires more than looking at total revenue. Businesses also need to understand what drives sales, which products contribute the most, where customers are located, and how effectively registered customers convert into actual buyers.
+
+This project addresses the following business questions:
+
+1. How is sales performance evolving over time? Are there monthly trends or fluctuations?
+2. Which products generate the highest sales volume and revenue? Is any product category underperforming?
+3. How much do customers spend per order, and what is their average purchasing behavior?
+4. Which regions contribute the most to sales, and which regions have room for growth?
+5. Who are the customers, and which age groups contribute the most to revenue?
+6. How many registered customers have actually made a purchase?
+7. How do purchasing patterns vary across months, products, and regions?
+
+
+## Analysis Decisions
+
+- Revenue = `SUM(sales.total_price)`, not payment.
+- Gender is not merged into "Other".
+- The sample size per gender is small (about 100), so don't over-interpret it.
+
 ## Setup
 
 1. Open XAMPP (`manager-osx`).
@@ -106,22 +135,6 @@ GROUP BY country;
 Result: there is only **1 country** and **8 states**.
 
 ---
-
-## Business Questions
-
-1. How is our sales performance over this period? Are there time patterns we should watch?
-2. Which products are the best sellers? Is any category falling behind?
-3. How much do our customers spend?
-4. Which region is the main market, and which one is still weak?
-5. Who are our customers, and which age group matters most?
-6. How many registered customers actually buy something?
-7. Does the pattern change by month, product, or region?
-
-## Analysis Decisions
-
-- Revenue = `SUM(sales.total_price)`, not payment.
-- Gender is not merged into "Other".
-- The sample size per gender is small (about 100), so don't over-interpret it.
 
 ---
 
